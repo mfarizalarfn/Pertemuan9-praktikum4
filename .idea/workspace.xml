@@ -20,32 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31d15de4-ed44-4e8f-aabe-20c94a9f8c4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/membuat list-module4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/praktikum-mod4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/prettytable-2.0.0.dist-info/COPYING" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/prettytable-2.0.0.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/prettytable-2.0.0.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/prettytable-2.0.0.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/prettytable-2.0.0.dist-info/REQUESTED" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/prettytable-2.0.0.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/prettytable-2.0.0.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/prettytable/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/prettytable/prettytable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wcwidth-0.2.5.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wcwidth-0.2.5.dist-info/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wcwidth-0.2.5.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wcwidth-0.2.5.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wcwidth-0.2.5.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wcwidth-0.2.5.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wcwidth-0.2.5.dist-info/zip-safe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wcwidth/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wcwidth/table_wide.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wcwidth/table_zero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wcwidth/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wcwidth/tests/test_core.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wcwidth/unicode_versions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wcwidth/version.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wcwidth/wcwidth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,22 +133,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="534" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1605691408038" />
-    <state width="1345" height="223" key="GridCell.Tab.0.bottom" timestamp="1605691649319">
+    <state width="1345" height="149" key="GridCell.Tab.0.bottom" timestamp="1605705569847">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605691649319" />
-    <state width="1345" height="223" key="GridCell.Tab.0.center" timestamp="1605691649319">
+    <state width="1345" height="149" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605705569847" />
+    <state width="1345" height="149" key="GridCell.Tab.0.center" timestamp="1605705569847">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605691649319" />
-    <state width="1345" height="223" key="GridCell.Tab.0.left" timestamp="1605691649319">
+    <state width="1345" height="149" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605705569847" />
+    <state width="1345" height="149" key="GridCell.Tab.0.left" timestamp="1605705569847">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605691649319" />
-    <state width="1345" height="223" key="GridCell.Tab.0.right" timestamp="1605691649319">
+    <state width="1345" height="149" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605705569847" />
+    <state width="1345" height="149" key="GridCell.Tab.0.right" timestamp="1605705569847">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605691649319" />
+    <state width="1345" height="149" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605705569847" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1605691649319">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
