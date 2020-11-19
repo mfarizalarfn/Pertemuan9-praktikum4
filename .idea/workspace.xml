@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31d15de4-ed44-4e8f-aabe-20c94a9f8c4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pict/membuat-list.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.praktikum-mod4">
+  <component name="RunManager" selected="Python.membuat list-module4">
     <configuration name="membuat list-module4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pertemuan9-praktikum4" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,8 +94,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.praktikum-mod4" />
         <item itemvalue="Python.membuat list-module4" />
+        <item itemvalue="Python.praktikum-mod4" />
       </list>
     </recent_temporary>
   </component>

@@ -56,4 +56,6 @@ print(list_pertama)
 print("Menggabungkan list B dengan list A")
 gabung=list_pertama+list
 print(gabung)
-```python
+```
+Berikut hasil run syntax latihan module 4 diatas :<br>
+![hasil running](pict/run-latihan4.PNG)<br>
