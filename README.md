@@ -62,3 +62,5 @@ Berikut hasil run syntax latihan module 4 diatas :<br><br>
 
 ## Soal Tugas Praktikum
 ![soal prktik module4](pict/tugas-praktikum-module4.PNG)<br>
+
+Pada soal tugas ini saya akan membuat dan menjelaskan syntax yang saya buat<br>
