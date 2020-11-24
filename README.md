@@ -10,7 +10,7 @@ Kelas : TI.20.B.1<br>
 Pada halaman ini (Tugas Pertemuan-9-Module Praktikum 4) Dosen memberi tugas sebagai berikut : <br>
 Ada dua bahan praktik dimodule 4 kali ini yaitu :<br>
 
-## Yang pertama ada latihan
+## Yang pertama adalah latihan
 ![tugas](pict/latihanmodule4.PNG)<br>
 
 ### Berikut ini saya menulis syntax sekaligus menuliskan langkah-langkahnya sebagai berikut
@@ -57,5 +57,5 @@ print("Menggabungkan list B dengan list A")
 gabung=list_pertama+list
 print(gabung)
 ```
-Berikut hasil run syntax latihan module 4 diatas :<br>
+Berikut hasil run syntax latihan module 4 diatas :<br><br>
 ![hasil running](pict/run-latihan4.PNG)<br>
