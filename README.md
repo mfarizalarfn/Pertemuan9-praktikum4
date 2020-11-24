@@ -10,10 +10,10 @@ Kelas : TI.20.B.1<br>
 Pada halaman ini (Tugas Pertemuan-9-Module Praktikum 4) Dosen memberi tugas sebagai berikut : <br>
 Ada dua bahan praktik dimodule 4 kali ini yaitu :<br>
 
-# Yang pertama ada latihan
+## Yang pertama ada latihan
 ![tugas](pict/latihanmodule4.PNG)<br>
 
-# Berikut ini saya menulis syntax sekaligus menuliskan langkah-langkahnya sebagai berikut
+### Berikut ini saya menulis syntax sekaligus menuliskan langkah-langkahnya sebagai berikut
 
 ```python
 # membuat list
