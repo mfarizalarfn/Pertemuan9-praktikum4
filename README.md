@@ -112,7 +112,8 @@ for isi in baris:
 print(x)
 ```
 
-Sebelumnya saya menginstall pip prettytable digunakan untuk membuat table dan untuk merapihkan data yang diinputkan, langkahnya adalah sebagai berikut<br>
-Install pip python dengan cara menulis command pada command promp seperti pada ganbar dibawah : <br>
-
+Sebelumnya saya menginstall pip prettytable digunakan untuk membuat table dan untuk merapihkan data yang diinputkan, langkahnya adalah sebagai berikut :<br>
+* Install pip python dengan cara menulis command pada command promp seperti pada gambar dibawah <br>
 ![installpip](pict/pythonget-pip.py.PNG)<br>
+* Cek pip version yang baru saja terinstall dengan cara sebagai berikut<br>
+![pipversion](pict/pip-version.PNG)<br>
