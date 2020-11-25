@@ -15,8 +15,6 @@ Ada dua bahan praktik dimodule 4 kali ini yaitu :<br>
 
 ### Berikut ini saya menulis syntax sekaligus menuliskan langkah-langkahnya sebagai berikut 
 
-atau bisa klik link ( [Latihan module4 pertemuan9](membuat-list-module4.py) )<br>
-
 ```python
 # membuat list
 print("Buat sebuah list sebanyak 5 elemen dengan nilai bebas")
@@ -114,4 +112,7 @@ for isi in baris:
 print(x)
 ```
 
-Sebelumnya saya menginstall pip prettytable digunakan untuk membuat table dan untuk merapihkan 
+Sebelumnya saya menginstall pip prettytable digunakan untuk membuat table dan untuk merapihkan data yang diinputkan, langkahnya adalah sebagai berikut<br>
+Install pip python dengan cara menulis command pada command promp seperti pada ganbar dibawah : <br>
+
+![installpip](pict/pythonget-pip.py.PNG)<br>
