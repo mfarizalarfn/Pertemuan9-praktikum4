@@ -10,10 +10,10 @@ Kelas : TI.20.B.1<br>
 Pada halaman ini (Tugas Pertemuan-9-Module Praktikum 4) Dosen memberi tugas sebagai berikut : <br>
 Ada dua bahan praktik dimodule 4 kali ini yaitu :<br>
 
-## Soal Latihan
+* Soal Latihan yang ada pada module praktikum 4
 ![tugas](pict/latihanmodule4.PNG)<br>
 
-### Berikut ini saya menulis syntax sekaligus menuliskan langkah-langkahnya sebagai berikut 
+* Berikut ini saya menulis syntax sekaligus menuliskan langkah-langkahnya sebagai berikut 
 
 ```python
 # membuat list
@@ -57,13 +57,13 @@ print("Menggabungkan list B dengan list A")
 gabung=list_pertama+list
 print(gabung)
 ```
-Berikut hasil run syntax latihan module 4 diatas :<br><br>
+* Berikut hasil run syntax untuk memenuhi latihan module 4 diatas :<br><br>
 ![hasil running](pict/run-latihan4.PNG)<br>
 
-## Soal Tugas Praktikum
+* Soal Tugas praktikum module 4
 ![soal praktik module4](pict/tugas-praktikum-module4.PNG)<br>
 
-Pada soal tugas ini saya akan menulis dan menjelaskan syntax yang saya buat sebagai berikut<br>
+* Pada soal tugas ini saya akan menulis dan menjelaskan syntax yang saya buat sebagai berikut<br>
 
 ```python
 print("===================================================================")
@@ -111,9 +111,8 @@ for isi in baris:
     x.add_row([no, isi[0], isi[1], isi[2], isi[3], isi[4], isi[5]])
 print(x)
 ```
+* Berikut hasil run syntax yang saya buat untuk memenuhi praktikum module 4 :<br><br>
+
+![hasil running](pict/run-praktikum4.PNG)<br>
 
 Sebelumnya saya menginstall pip prettytable digunakan untuk membuat table dan untuk merapihkan data yang diinputkan, langkahnya adalah sebagai berikut :<br>
-* Install pip python dengan cara menulis command pada command promp seperti pada gambar dibawah <br>
-![installpip](pict/pythonget-pip.py.PNG)<br>
-* Cek pip version yang baru saja terinstall dengan cara sebagai berikut<br>
-![pipversion](pict/pip-version.PNG)<br>
