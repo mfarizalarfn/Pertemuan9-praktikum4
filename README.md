@@ -114,7 +114,7 @@ print(x)
 * Berikut hasil run syntax yang saya buat untuk memenuhi praktikum module 4 :<br><br>
 ![hasil running](pict/run-praktikum4.PNG)<br>
 * Flowchart program diatas adalah sebagai berikut <br>
-![flowchar](pict/flowchart-module4.png)
+![flowchar](pict/flowchart-module4.png)<br>
 > Penjelasan singkat tentang fungsi While untuk mengatur kondisi seperti while not stop dan jika tidak berhenti maka system akan terus menampilkan perintah user untuk meninputkan data . Untuk perhitungan nilai akhir sesuai ketentuan yang dosen inginkan. Sedangkan untuk menampilkan hasil dari inputan user tersebut menggunakan fungsi/module yang ada pada PrettyTable bisa mengakses link berikut ini untuk panduan installation : <br>
 > [How to install PIP](https://phoenixnap.com/kb/install-pip-windows)<br>
 >[How to install PrettyTable](https://pypi.org/project/prettytable/)<br>
